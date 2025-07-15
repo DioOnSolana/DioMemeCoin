@@ -28,7 +28,7 @@ export default function Hero() {
           The villain of memecoins has arrived. No mercy. Only mayhem.
         </p>
 
-        <h1 className="mt-4 text-[14px] sm:text-[16px]">CA: LAUNCHING ON JULY 15TH</h1>
+        <h1 className="mt-4 text-[14px] sm:text-[16px]">CA: 4KcVafdNi33n6LmuQzvA7xNFb8zZyJxLHCsaFeo3pump</h1>
 
         {/* Social Icons */}
         <div className="flex space-x-5 mt-6">
