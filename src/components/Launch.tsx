@@ -9,8 +9,7 @@ export default function Launch(){
   viewport={{ once: true }}>
 
       <div style={{ fontFamily: "playfair display, serif" }}  className="flex flex-col items-center">
-        <div><h1 className="text-[60px]">LAUNCHING ON JULY 15TH</h1></div>
-        <div><p className="text-[25px]">CA : coming soon</p></div>
+        <div><h1 className="text-[60px]">CA : 4KcVafdNi33n6LmuQzvA7xNFb8zZyJxLHCsaFeo3pump </h1></div>
       </div>
     </motion.div>
   )
